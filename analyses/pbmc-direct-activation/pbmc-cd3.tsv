@@ -1,0 +1,10 @@
+Sample:	IL2	Activation beads	Live/CD3+ | Freq. of Parent	Live/CD3+/CD4+ CD8+ | Freq. of Parent	Live/CD3+/CD4+ CD8- | Freq. of Parent	Live/CD3+/CD4- CD8+ | Freq. of Parent	Live/CD3+/CD4- CD8- | Freq. of Parent	Live/CD3- | Freq. of Parent
+P001.fcs	-	-	81.4	13.1	64.4	21.2	1.28	18.6
+P002.fcs	-	-	80.4	9.85	66	22.9	1.32	19.6
+P003.fcs	-	-	82.5	9.21	66.8	22.7	1.4	17.5
+P101.fcs	200 U/mL	-	74.2	6.87	63.5	27.9	1.96	25.8
+P102.fcs	200 U/mL	-	72.3	7.72	62.2	28.3	2.06	27.7
+P103.fcs	200 U/mL	-	72.2	7.47	62.9	28.1	1.97	27.8
+P111.fcs	200 U/mL	1:1	91.7	17.5	69.3	12.8	0.99	8.3
+P112.fcs	200 U/mL	1:1	92.1	19.6	67.8	12	1.1	7.86
+P113.fcs	200 U/mL	1:1	91.5	18.3	69	12.1	1.04	8.54
