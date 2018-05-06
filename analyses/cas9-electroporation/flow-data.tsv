@@ -1,0 +1,13 @@
+Donor	Replicate	sgRNA	Live/CD4+ CD8+ | Freq. of Parent	Live/CD4+ CD8- | Freq. of Parent	Live/CD4+ CD8-/CD25+ | Freq. of Parent	Live/CD4+ CD8-/CD25- | Freq. of Parent	Live/CD4- CD8+ | Freq. of Parent	Live/CD4- CD8+/CD25+ | Freq. of Parent	Live/CD4- CD8+/CD25- | Freq. of Parent	Live/CD4- CD8- | Freq. of Parent	Live/CD25+ | Freq. of Parent	Live/CD25- | Freq. of Parent
+D14	R1	N/A	2.07	70.8	82.1	17.9	11.9	90.4	9.57	15.2	82.2	17.8
+D14	R2	N/A	2.38	82.5	66	17.2	12.7	90.4	9.62	2.45	83.7	16.3
+D14	R3	N/A	2.28	82.4	86.9	13.1	12.1	91.3	8.73	3.19	87	13
+D15	R1	N/A	1.61	76.7	77.2	22.8	18.6	84.3	15.7	3.11	78.4	21.6
+D15	R2	N/A	1.84	76.8	79.3	20.7	18	85.6	14.4	3.26	80.3	19.7
+D15	R3	N/A	2.35	96.1	77.4	22.6	22.4	84.5	15.5	4.07	104	20.5
+D14	R1	CD4	0.18	9.27	78.8	21.2	14.7	89.8	10.2	75.8	87.2	12.8
+D14	R2	CD4	0.28	9.15	77.8	22.2	14.7	88.7	11.3	75.9	86.3	13.7
+D14	R3	CD4	0.28	11	74.5	25.5	13.9	88.5	11.5	74.8	85	15
+D15	R1	CD4	0.46	10.5	67.4	32.6	18.8	84.9	15.1	70.2	82	18
+D15	R2	CD4	0.46	11	64.8	35.2	18.5	81.7	18.3	70.1	78	22
+D15	R3	CD4	0.36	13.5	61.2	38.8	17.9	77.2	22.8	68.3	74.1	25.9
