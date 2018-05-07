@@ -1,0 +1,37 @@
+Sample:	Live | Freq. of Parent	Live/GFP+ | Freq. of Parent	Live/GFP- | Freq. of Parent	Donor	Activated	Replicate	Electroporation
+16A0-1.fcs	85.9	0.15	99.8	D16	Yes	1	None
+16A0-2.fcs	86.2	0.28	99.7	D16	Yes	2	None
+16A0-3.fcs	85.6	0.25	99.8	D16	Yes	3	None
+16A1-1.fcs	67.7	0.77	99.2	D16	Yes	1	1600V 10ms 3p
+16A1-2.fcs	66.7	1.23	98.8	D16	Yes	2	1600V 10ms 3p
+16A1-3.fcs	66.6	1	99	D16	Yes	3	1600V 10ms 3p
+16A2-1.fcs	D17	19.4	80.6	D16	Yes	1	2200V 20ms 1p
+16A2-2.fcs	19.7	10.5	89.5	D16	Yes	2	2200V 20ms 1p
+16A2-3.fcs	19.7	11.3	88.7	D16	Yes	3	2200V 20ms 1p
+17A0-1.fcs	78	0.34	99.7	D17	Yes	1	None
+17A0-2.fcs	78.9	0.43	99.6	D17	Yes	2	None
+17A0-3.fcs	79.8	0.4	99.6	D17	Yes	3	None
+17A1-1.fcs	51.4	8.73	91.3	D17	Yes	1	1600V 10ms 3p
+17A1-2.fcs	48.2	6.69	93.3	D17	Yes	2	1600V 10ms 3p
+17A1-3.fcs	48.8	5.47	94.5	D17	Yes	3	1600V 10ms 3p
+17A2-1.fcs	18.7	9.38	90.6	D17	Yes	1	2200V 20ms 1p
+17A2-2.fcs	18.7	9.8	90.2	D17	Yes	2	2200V 20ms 1p
+17A2-3.fcs	20.9	7.37	92.6	D17	Yes	3	2200V 20ms 1p
+16U0-1.fcs	0.18	50	50	D16	No	1	None
+16U0-2.fcs	75.1	0.65	99.4	D16	No	2	None
+16U0-3.fcs	77.1	0.89	99.1	D16	No	3	None
+16U1-1.fcs	72.9	0.57	99.4	D16	No	1	1600V 10ms 3p
+16U1-2.fcs	71.8	0.7	99.3	D16	No	2	1600V 10ms 3p
+16U1-3.fcs	76.5	1.21	98.8	D16	No	3	1600V 10ms 3p
+16U2-1.fcs	72.4	0.28	99.7	D16	No	1	2200V 20ms 1p
+16U2-2.fcs	70.4	0.31	99.7	D16	No	2	2200V 20ms 1p
+16U2-3.fcs	58.2	0.28	125	D16	No	3	2200V 20ms 1p
+17U0-1.fcs	78.4	0.5	99.5	D17	No	1	None
+17U0-2.fcs	76.3	0.51	99.5	D17	No	2	None
+17U0-3.fcs	76.7	0.74	99.3	D17	No	3	None
+17U1-1.fcs	73.1	15.2	84.8	D17	No	1	1600V 10ms 3p
+17U1-2.fcs	73.8	15.4	84.6	D17	No	2	1600V 10ms 3p
+17U1-3.fcs	73.2	13.1	86.9	D17	No	3	1600V 10ms 3p
+17U2-1.fcs	61.4	3.42	96.6	D17	No	1	2200V 20ms 1p
+17U2-2.fcs	57.8	0.67	99.3	D17	No	2	2200V 20ms 1p
+17U2-3.fcs	56.1	0.48	99.5	D17	No	3	2200V 20ms 1p
