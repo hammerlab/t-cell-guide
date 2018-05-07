@@ -1,0 +1,11 @@
+Sample:	Electroporation	Donor	Live/GFP+ | Freq. of Parent	Live/GFP- | Freq. of Parent
+40.fcs	No	D4	0.41	99.6
+41.fcs	Yes	D4	27.4	72.6
+120.fcs	No	D12	0.22	99.8
+121.fcs	Yes	D12	13.4	86.6
+150.fcs	No	D15	0.76	99.2
+151.fcs	Yes	D15	1.85	98.1
+160.fcs	No	D16	0.82	99.2
+161.fcs	Yes	D16	0.95	99
+170.fcs	No	D17	0.46	99.5
+171.fcs	Yes	D17	0.26	99.7
