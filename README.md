@@ -1,6 +1,10 @@
 # Human Primary T Cells: A Practical Guide
 ![ORLY](./cover.png)
 
+## Guide
+- Live document: [Human Primary T Cells: A Practical Guide](https://docs.google.com/document/d/1LIuLDXPm1L3KvsZwtrhaZtiUjZ3i3y74uN_FcEM-gqk/edit#)
+
+
 ## Notebooks
 - [Hundreds of millions of T cells can be isolated from a buffy coat sample
 ](analyses/buffy-pbmc-tcell/Buffy%20-%20PBMC%20-%20T%20cell%20counts.ipynb)
