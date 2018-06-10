@@ -1,4 +1,6 @@
 # Human Primary T Cells: A Practical Guide
+[![DOI](https://zenodo.org/badge/120860634.svg)](https://zenodo.org/badge/latestdoi/120860634)
+
 ![ORLY](./cover.png)
 
 ## Guide
