@@ -5,6 +5,7 @@
 
 ## Guide
 - Live document: [Human Primary T Cells: A Practical Guide](https://docs.google.com/document/d/1LIuLDXPm1L3KvsZwtrhaZtiUjZ3i3y74uN_FcEM-gqk/edit#)
+- Protocols: https://www.protocols.io/view/human-primary-t-cells-a-practical-guide-quvdww6
 
 
 ## Notebooks
